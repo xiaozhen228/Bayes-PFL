@@ -120,16 +120,16 @@ def calcuate_metric_image(results, obj_list, logger, alpha = 0.9, sigm = 4, args
                 pr_px.append(results['anomaly_maps'][idxes])
 
                 temp = np.partition(results['anomaly_maps'][idxes].reshape(-1), kth=can_k)[can_k:]
-                pr_sp_list.append(np.mean(temp))   #anomaly_map的最大值
-                #pr_sp_list.append(np.max(results['anomaly_maps'][idxes]))
+                pr_sp_list.append(np.mean(temp))   
+                
 
-                gt_sp.append(results['gt_sp'][idxes])  #是否是异常
-                pr_sp.append(results['pr_sp'][idxes])  #整张图片是异常的概率是多少
+                gt_sp.append(results['gt_sp'][idxes])  
+                pr_sp.append(results['pr_sp'][idxes])  
                 img_path_list.append(results['path'][idxes])
-        gt_px = np.array(gt_px)  #真实的mask
-        gt_sp = np.array(gt_sp)  #是否异常
-        pr_px = np.array(pr_px)  #概率图
-        pr_sp = np.array(pr_sp)  #整张图片是异常的概率
+        gt_px = np.array(gt_px) 
+        gt_sp = np.array(gt_sp)  
+        pr_px = np.array(pr_px)  
+        pr_sp = np.array(pr_sp)  
         pr_sp_tmp = np.array(pr_sp_list)
 
         pr_px =  gaussian_filter(pr_px, sigma=sigm,axes = (1,2)) 
@@ -141,10 +141,10 @@ def calcuate_metric_image(results, obj_list, logger, alpha = 0.9, sigm = 4, args
         pr_sp = (alpha * pr_sp + (1 - alpha) * pr_sp_tmp)
         #pr_sp = pr_sp_tmp
 
-        auroc_px = roc_auc_score(gt_px.ravel(), pr_px.ravel())   #像素级别的AUROC 
+        auroc_px = roc_auc_score(gt_px.ravel(), pr_px.ravel())   
 
-        auroc_sp = roc_auc_score(gt_sp, pr_sp)  #图像级别的AUROC
-        ap_sp = average_precision_score(gt_sp, pr_sp)   #图像级别的AP
+        auroc_sp = roc_auc_score(gt_sp, pr_sp)  
+        ap_sp = average_precision_score(gt_sp, pr_sp)   
         ap_px = average_precision_score(gt_px.ravel(), pr_px.ravel())
 
 
@@ -167,7 +167,7 @@ def calcuate_metric_image(results, obj_list, logger, alpha = 0.9, sigm = 4, args
         f1_px = np.max(f1_scores[np.isfinite(f1_scores)])
         iou = cal_iou(gt_px.ravel(), (pr_px.ravel()>best_threshold))
         iou_list.append(iou)
-        print("{}--->  iou:{}   f1-max:{}  threshold:{}".format(obj,iou,f1_px,best_threshold))  #这算的是具体某个类别的IOU 
+        print("{}--->  iou:{}   f1-max:{}  threshold:{}".format(obj,iou,f1_px,best_threshold)) 
 
 
         
