@@ -339,20 +339,20 @@ class Context_Prompting(nn.Module):
             image_embeddings_mapping = self.image_mapping(image_features + self.fuse(patch_tokens))
             image_embeddings_mapping = image_embeddings_mapping / image_embeddings_mapping.norm(dim=-1, keepdim = True)
             pro_img = self.temperature_image.exp() * text_embeddings_mapping @ image_embeddings_mapping.unsqueeze(2)
-
-            anomaly_maps_list = []
-            for layer in range(len(patch_tokens)):
-                text_embeddings_update, dense_feature = self.RCA(text_features, patch_tokens[layer].clone(), layer)
-                anomaly_map = (self.temperature_pixel.exp() * dense_feature @ text_embeddings_update.permute(0,2,1))
-                B, L, C = anomaly_map.shape
-                H = int(np.sqrt(L))
-                if mode == "train":
-                    anomaly_map = F.interpolate(anomaly_map.permute(0, 2, 1).view(B,self.args.prompt_num * 2, H, H),
-                                                    size = self.args.image_size, mode = 'bilinear', align_corners= True)
-                else:
-                    anomaly_map = F.interpolate(anomaly_map.permute(0, 2, 1).view(B,self.args.prompt_num * 2 * self.args.sample_num, H, H),
-                                                    size = self.args.image_size, mode = 'bilinear', align_corners= True)
-                anomaly_maps_list.append(anomaly_map)
+            with torch.no_grad():
+                anomaly_maps_list = []
+                for layer in range(len(patch_tokens)):
+                    text_embeddings_update, dense_feature = self.RCA(text_features, patch_tokens[layer].clone(), layer)
+                    anomaly_map = (self.temperature_pixel.exp() * dense_feature @ text_embeddings_update.permute(0,2,1))
+                    B, L, C = anomaly_map.shape
+                    H = int(np.sqrt(L))
+                    if mode == "train":
+                        anomaly_map = F.interpolate(anomaly_map.permute(0, 2, 1).view(B,self.args.prompt_num * 2, H, H),
+                                                        size = self.args.image_size, mode = 'bilinear', align_corners= True)
+                    else:
+                        anomaly_map = F.interpolate(anomaly_map.permute(0, 2, 1).view(B,self.args.prompt_num * 2 * self.args.sample_num, H, H),
+                                                        size = self.args.image_size, mode = 'bilinear', align_corners= True)
+                    anomaly_maps_list.append(anomaly_map)
             return pro_img, anomaly_maps_list
 
     
