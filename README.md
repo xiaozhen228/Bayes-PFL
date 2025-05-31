@@ -144,7 +144,7 @@ Please cite the following paper if the code help your project:
 ```
 
 ## Acknowledgements
-We thank the great works [WinCLIP(zqhang)](https://github.com/zqhang/Accurate-WinCLIP-pytorch), [WinCLIP(caoyunkang)](https://github.com/caoyunkang/WinClip), [CLIP-AD](https://github.com/ByChelsea/CLIP-AD), [VCP-CLIP](https://github.com/xiaozhen228/VCP-CLIP), [APRIL-GAN](https://github.com/ByChelsea/VAND-APRIL-GAN), [AdaCLIP](https://github.com/caoyunkang/AdaCLIP) and [AnomalyCLIP](https://github.com/zqhang/AnomalyCLIP) for assisting with our work.
+We thank the great works [WinCLIP(zqhang)](https://github.com/zqhang/Accurate-WinCLIP-pytorch), [WinCLIP(caoyunkang)](https://github.com/caoyunkang/WinClip), [CLIP-AD](https://github.com/ByChelsea/CLIP-AD), [VCP-CLIP](https://github.com/xiaozhen228/VCP-CLIP), [APRIL-GAN](https://github.com/ByChelsea/VAND-APRIL-GAN), [AdaCLIP](https://github.com/caoyunkang/AdaCLIP) [OpenCLIP](https://github.com/mlfoundations/open_clip) and [AnomalyCLIP](https://github.com/zqhang/AnomalyCLIP) for assisting with our work.
 
 ## License
 The code and dataset in this repository are licensed under the [MIT license](https://mit-license.org/).
