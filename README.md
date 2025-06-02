@@ -27,7 +27,7 @@ Recently, vision-language models (e.g. CLIP) have demonstrated remarkable perfor
 Create a new conda environment and install required packages.
 ```
 conda create -n Bayes_PFL python=3.9
-conda activate VCP_env
+conda activate Bayes_PFL
 conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
 pip install -r requirements.txt
 ```
@@ -115,6 +115,9 @@ The format of the standardized datasets is as follows:
 ├── meta_mvtec.json
 ├── meta_visa.json
 ```
+#### Other Datasets
+Updating...
+
 
 ## Run Experiments
 #### Prepare the pre-trained weights
@@ -131,6 +134,7 @@ The format of the standardized datasets is as follows:
 
 > bash test.sh
 
+Note that we perform auxiliary training on one industrial dataset and directly infer on other industrial and medical datasets. Since the categories in VisA do not overlap with those in the other datasets, we use VisA as the auxiliary training set. To assess VisA itself, we fine-tune our model on the MVTec-AD dataset.
 ## Citation
 Please cite the following paper if the code help your project:
 
@@ -144,7 +148,7 @@ Please cite the following paper if the code help your project:
 ```
 
 ## Acknowledgements
-We thank the great works [WinCLIP(zqhang)](https://github.com/zqhang/Accurate-WinCLIP-pytorch), [WinCLIP(caoyunkang)](https://github.com/caoyunkang/WinClip), [CLIP-AD](https://github.com/ByChelsea/CLIP-AD), [VCP-CLIP](https://github.com/xiaozhen228/VCP-CLIP), [APRIL-GAN](https://github.com/ByChelsea/VAND-APRIL-GAN), [AdaCLIP](https://github.com/caoyunkang/AdaCLIP) [OpenCLIP](https://github.com/mlfoundations/open_clip) and [AnomalyCLIP](https://github.com/zqhang/AnomalyCLIP) for assisting with our work.
+We thank the great works [WinCLIP(zqhang)](https://github.com/zqhang/Accurate-WinCLIP-pytorch), [WinCLIP(caoyunkang)](https://github.com/caoyunkang/WinClip), [CLIP-AD](https://github.com/ByChelsea/CLIP-AD), [VCP-CLIP](https://github.com/xiaozhen228/VCP-CLIP), [APRIL-GAN](https://github.com/ByChelsea/VAND-APRIL-GAN), [AdaCLIP](https://github.com/caoyunkang/AdaCLIP) and [AnomalyCLIP](https://github.com/zqhang/AnomalyCLIP) for assisting with our work.
 
 ## License
 The code and dataset in this repository are licensed under the [MIT license](https://mit-license.org/).
