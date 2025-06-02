@@ -1,0 +1,3050 @@
+{
+    "train": {
+        "skin": [
+            {
+                "img_path": "",
+                "mask_path": "",
+                "cls_name": "skin",
+                "specie_name": "good",
+                "dataset_name": "",
+                "anomaly": 0
+            }
+        ]
+    },
+    "test": {
+        "skin": [
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000003_000000.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000003_000000.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000012_000001.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000012_000001.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000013_000002.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000013_000002.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000014_000003.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000014_000003.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000015_000004.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000015_000004.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000020_000005.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000020_000005.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000022_000006.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000022_000006.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000023_000007.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000023_000007.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000027_000008.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000027_000008.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000036_000009.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000036_000009.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000037_000010.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000037_000010.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000040_000011.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000040_000011.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000043_000012.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000043_000012.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000052_000013.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000052_000013.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000053_000014.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000053_000014.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000056_000015.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000056_000015.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000057_000016.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000057_000016.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000064_000017.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000064_000017.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000066_000018.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000066_000018.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000069_000019.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000069_000019.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000071_000020.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000071_000020.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000072_000021.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000072_000021.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000088_000022.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000088_000022.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000092_000023.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000092_000023.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000098_000024.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000098_000024.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000099_000025.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000099_000025.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000101_000026.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000101_000026.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000107_000027.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000107_000027.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000111_000028.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000111_000028.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000113_000029.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000113_000029.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000115_000030.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000115_000030.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000117_000031.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000117_000031.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000125_000032.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000125_000032.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000126_000033.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000126_000033.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000129_000034.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000129_000034.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000132_000035.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000132_000035.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000136_000036.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000136_000036.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000138_000037.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000138_000037.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000141_000038.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000141_000038.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000149_000039.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000149_000039.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000160_000040.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000160_000040.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000161_000041.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000161_000041.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000164_000042.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000164_000042.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000165_000043.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000165_000043.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000169_000044.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000169_000044.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000172_000045.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000172_000045.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000174_000046.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000174_000046.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000177_000047.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000177_000047.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000188_000048.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000188_000048.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000195_000049.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000195_000049.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000196_000050.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000196_000050.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000197_000051.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000197_000051.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000198_000052.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000198_000052.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000200_000053.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000200_000053.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000201_000054.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000201_000054.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000202_000055.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000202_000055.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000212_000056.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000212_000056.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000213_000057.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000213_000057.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000222_000058.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000222_000058.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000226_000059.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000226_000059.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000227_000060.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000227_000060.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000228_000061.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000228_000061.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000230_000062.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000230_000062.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000231_000063.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000231_000063.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000233_000064.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000233_000064.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000234_000065.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000234_000065.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000246_000066.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000246_000066.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000253_000067.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000253_000067.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000254_000068.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000254_000068.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000257_000069.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000257_000069.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000258_000070.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000258_000070.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000271_000071.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000271_000071.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000279_000072.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000279_000072.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000287_000073.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000287_000073.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000289_000074.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000289_000074.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000298_000075.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000298_000075.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000299_000076.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000299_000076.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000302_000077.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000302_000077.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000306_000078.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000306_000078.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000310_000079.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000310_000079.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000311_000080.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000311_000080.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000319_000081.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000319_000081.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000320_000082.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000320_000082.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000325_000083.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000325_000083.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000327_000084.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000327_000084.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000328_000085.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000328_000085.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000340_000086.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000340_000086.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000343_000087.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000343_000087.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000354_000088.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000354_000088.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000357_000089.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000357_000089.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000368_000090.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000368_000090.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000371_000091.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000371_000091.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000377_000092.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000377_000092.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000378_000093.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000378_000093.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000380_000094.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000380_000094.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000388_000095.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000388_000095.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000392_000096.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000392_000096.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000393_000097.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000393_000097.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000407_000098.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000407_000098.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000418_000099.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000418_000099.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000420_000100.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000420_000100.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000433_000101.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000433_000101.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000448_000102.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000448_000102.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000449_000103.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000449_000103.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000456_000104.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000456_000104.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000466_000105.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000466_000105.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000470_000106.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000470_000106.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000476_000107.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000476_000107.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000479_000108.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000479_000108.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000482_000109.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000482_000109.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000484_000110.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000484_000110.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000487_000111.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000487_000111.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000490_000112.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000490_000112.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000494_000113.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000494_000113.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000499_000114.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000499_000114.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000501_000115.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000501_000115.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000508_000116.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000508_000116.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000509_000117.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000509_000117.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000510_000118.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000510_000118.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000515_000119.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000515_000119.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000518_000120.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000518_000120.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000525_000121.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000525_000121.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000527_000122.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000527_000122.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000533_000123.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000533_000123.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000534_000124.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000534_000124.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000537_000125.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000537_000125.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000539_000126.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000539_000126.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000540_000127.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000540_000127.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000547_000128.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000547_000128.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000549_000129.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000549_000129.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0000550_000130.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0000550_000130.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001100_000131.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001100_000131.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001103_000132.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001103_000132.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001128_000133.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001128_000133.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001131_000134.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001131_000134.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001142_000135.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001142_000135.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001181_000136.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001181_000136.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001185_000137.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001185_000137.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001186_000138.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001186_000138.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001190_000139.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001190_000139.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001204_000140.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001204_000140.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001242_000141.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001242_000141.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001299_000142.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001299_000142.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001427_000143.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001427_000143.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001484_000144.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001484_000144.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001685_000145.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001685_000145.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0001960_000146.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0001960_000146.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0002107_000147.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0002107_000147.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0002246_000148.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0002246_000148.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0002673_000149.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0002673_000149.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0002829_000150.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0002829_000150.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0002871_000151.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0002871_000151.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0003056_000152.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0003056_000152.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0003559_000153.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0003559_000153.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0003728_000154.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0003728_000154.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0004115_000155.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0004115_000155.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0004346_000156.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0004346_000156.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0005000_000157.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0005000_000157.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0006193_000158.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0006193_000158.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0006711_000159.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0006711_000159.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0007322_000160.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0007322_000160.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0007693_000161.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0007693_000161.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0008116_000162.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0008116_000162.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0008207_000163.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0008207_000163.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0008406_000164.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0008406_000164.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0008507_000165.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0008507_000165.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0008600_000166.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0008600_000166.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0008626_000167.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0008626_000167.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0008659_000168.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0008659_000168.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0008992_000169.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0008992_000169.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0008998_000170.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0008998_000170.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009035_000171.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009035_000171.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009078_000172.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009078_000172.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009083_000173.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009083_000173.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009201_000174.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009201_000174.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009298_000175.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009298_000175.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009564_000176.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009564_000176.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009869_000177.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009869_000177.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009872_000178.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009872_000178.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009874_000179.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009874_000179.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009879_000180.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009879_000180.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009880_000181.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009880_000181.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009881_000182.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009881_000182.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009882_000183.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009882_000183.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009885_000184.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009885_000184.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009889_000185.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009889_000185.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009891_000186.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009891_000186.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009898_000187.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009898_000187.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009901_000188.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009901_000188.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009902_000189.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009902_000189.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009906_000190.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009906_000190.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009918_000191.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009918_000191.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009920_000192.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009920_000192.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009923_000193.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009923_000193.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009926_000194.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009926_000194.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009927_000195.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009927_000195.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009928_000196.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009928_000196.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009930_000197.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009930_000197.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009931_000198.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009931_000198.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009943_000199.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009943_000199.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009945_000200.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009945_000200.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009946_000201.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009946_000201.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009948_000202.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009948_000202.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009954_000203.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009954_000203.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009955_000204.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009955_000204.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009956_000205.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009956_000205.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009958_000206.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009958_000206.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009959_000207.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009959_000207.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009965_000208.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009965_000208.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009970_000209.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009970_000209.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009977_000210.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009977_000210.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009980_000211.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009980_000211.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009982_000212.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009982_000212.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009988_000213.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009988_000213.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009990_000214.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009990_000214.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009992_000215.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009992_000215.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009993_000216.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009993_000216.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009994_000217.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009994_000217.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0009998_000218.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0009998_000218.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010004_000219.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010004_000219.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010009_000220.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010009_000220.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010011_000221.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010011_000221.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010013_000222.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010013_000222.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010016_000223.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010016_000223.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010018_000224.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010018_000224.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010020_000225.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010020_000225.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010023_000226.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010023_000226.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010028_000227.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010028_000227.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010033_000228.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010033_000228.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010034_000229.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010034_000229.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010037_000230.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010037_000230.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010038_000231.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010038_000231.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010041_000232.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010041_000232.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010047_000233.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010047_000233.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010055_000234.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010055_000234.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010058_000235.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010058_000235.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010059_000236.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010059_000236.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010061_000237.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010061_000237.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010062_000238.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010062_000238.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010073_000239.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010073_000239.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010077_000240.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010077_000240.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010088_000241.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010088_000241.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010089_000242.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010089_000242.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010092_000243.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010092_000243.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010100_000244.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010100_000244.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010103_000245.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010103_000245.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010171_000246.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010171_000246.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010173_000247.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010173_000247.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010175_000248.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010175_000248.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010180_000249.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010180_000249.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010183_000250.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010183_000250.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010187_000251.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010187_000251.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010190_000252.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010190_000252.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010192_000253.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010192_000253.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010193_000254.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010193_000254.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010201_000255.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010201_000255.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010202_000256.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010202_000256.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010206_000257.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010206_000257.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010207_000258.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010207_000258.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010215_000259.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010215_000259.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010216_000260.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010216_000260.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010229_000261.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010229_000261.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010231_000262.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010231_000262.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010234_000263.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010234_000263.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010238_000264.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010238_000264.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010254_000265.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010254_000265.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010255_000266.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010255_000266.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010257_000267.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010257_000267.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010261_000268.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010261_000268.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010326_000269.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010326_000269.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010331_000270.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010331_000270.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010336_000271.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010336_000271.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010340_000272.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010340_000272.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010346_000273.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010346_000273.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010347_000274.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010347_000274.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010348_000275.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010348_000275.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010360_000276.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010360_000276.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010368_000277.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010368_000277.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010369_000278.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010369_000278.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010373_000279.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010373_000279.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010374_000280.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010374_000280.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010377_000281.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010377_000281.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010378_000282.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010378_000282.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010379_000283.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010379_000283.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010437_000284.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010437_000284.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010444_000285.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010444_000285.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010448_000286.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010448_000286.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010449_000287.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010449_000287.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010451_000288.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010451_000288.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010452_000289.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010452_000289.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010454_000290.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010454_000290.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010456_000291.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010456_000291.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010460_000292.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010460_000292.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010463_000293.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010463_000293.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010474_000294.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010474_000294.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010477_000295.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010477_000295.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010483_000296.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010483_000296.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010494_000297.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010494_000297.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010498_000298.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010498_000298.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010552_000299.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010552_000299.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010553_000300.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010553_000300.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010556_000301.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010556_000301.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010565_000302.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010565_000302.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010574_000303.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010574_000303.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010582_000304.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010582_000304.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010584_000305.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010584_000305.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010587_000306.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010587_000306.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010588_000307.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010588_000307.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010591_000308.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010591_000308.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010592_000309.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010592_000309.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010596_000310.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010596_000310.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010597_000311.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010597_000311.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010598_000312.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010598_000312.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010599_000313.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010599_000313.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010604_000314.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010604_000314.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010606_000315.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010606_000315.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010607_000316.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010607_000316.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010846_000317.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010846_000317.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010847_000318.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010847_000318.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010854_000319.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010854_000319.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010856_000320.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010856_000320.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0010863_000321.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0010863_000321.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011080_000322.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011080_000322.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011081_000323.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011081_000323.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011083_000324.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011083_000324.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011089_000325.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011089_000325.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011090_000326.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011090_000326.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011092_000327.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011092_000327.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011098_000328.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011098_000328.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011101_000329.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011101_000329.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011104_000330.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011104_000330.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011107_000331.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011107_000331.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011110_000332.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011110_000332.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011112_000333.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011112_000333.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011122_000334.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011122_000334.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011129_000335.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011129_000335.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011132_000336.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011132_000336.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011143_000337.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011143_000337.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011148_000338.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011148_000338.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011149_000339.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011149_000339.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011150_000340.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011150_000340.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011151_000341.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011151_000341.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011152_000342.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011152_000342.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011155_000343.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011155_000343.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011162_000344.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011162_000344.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011167_000345.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011167_000345.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011168_000346.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011168_000346.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011171_000347.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011171_000347.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011172_000348.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011172_000348.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011175_000349.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011175_000349.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011176_000350.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011176_000350.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011177_000351.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011177_000351.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011204_000352.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011204_000352.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011205_000353.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011205_000353.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011213_000354.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011213_000354.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011219_000355.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011219_000355.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011224_000356.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011224_000356.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011227_000357.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011227_000357.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011292_000358.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011292_000358.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011294_000359.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011294_000359.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011298_000360.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011298_000360.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011300_000361.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011300_000361.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011305_000362.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011305_000362.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011310_000363.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011310_000363.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011319_000364.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011319_000364.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011321_000365.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011321_000365.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011325_000366.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011325_000366.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011333_000367.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011333_000367.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011336_000368.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011336_000368.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011338_000369.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011338_000369.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011344_000370.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011344_000370.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011349_000371.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011349_000371.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011359_000372.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011359_000372.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011363_000373.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011363_000373.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011367_000374.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011367_000374.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011374_000375.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011374_000375.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011384_000376.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011384_000376.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011386_000377.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011386_000377.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ISIC/skin/test/anomaly/ISIC_defect_ISIC_0011392_000378.bmp",
+                "mask_path": "ISIC/skin/ground_truth/anomaly/ISIC_defect_ISIC_0011392_000378.png",
+                "cls_name": "skin",
+                "specie_name": "anomaly",
+                "dataset_name": "ISIC",
+                "anomaly": 1
+            }
+        ]
+    }
+}

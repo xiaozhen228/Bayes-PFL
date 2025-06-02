@@ -1,0 +1,1618 @@
+{
+    "train": {
+        "colon": [
+            {
+                "img_path": "",
+                "mask_path": "",
+                "cls_name": "colon",
+                "specie_name": "good",
+                "dataset_name": "",
+                "anomaly": 0
+            }
+        ]
+    },
+    "test": {
+        "colon": [
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_003ab8b5-cf6d-442a-849d-80ddf0d1edaf_000000.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_003ab8b5-cf6d-442a-849d-80ddf0d1edaf_000000.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_003f46f1-e447-486a-aeb7-6bf8b45a2184_000001.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_003f46f1-e447-486a-aeb7-6bf8b45a2184_000001.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_00be7d4a-d643-4075-9ea3-e5bff2cd9a5c_000002.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_00be7d4a-d643-4075-9ea3-e5bff2cd9a5c_000002.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_00c7089c-caf9-4c1b-850f-bedbb11668fc_000003.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_00c7089c-caf9-4c1b-850f-bedbb11668fc_000003.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_01deb8d0-4bc5-4092-9a76-9f5c2f74f0df_000004.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_01deb8d0-4bc5-4092-9a76-9f5c2f74f0df_000004.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_02ae2444-eddf-4fec-8b87-babc265d1553_000005.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_02ae2444-eddf-4fec-8b87-babc265d1553_000005.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_02c9cc1e-349a-4689-bfb4-b7df1f44ca53_000006.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_02c9cc1e-349a-4689-bfb4-b7df1f44ca53_000006.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_02d64f66-07e3-4e32-8ecd-5fec7e8acdba_000007.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_02d64f66-07e3-4e32-8ecd-5fec7e8acdba_000007.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_02e05e0f-5335-4d25-b41b-8f3181fa8941_000008.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_02e05e0f-5335-4d25-b41b-8f3181fa8941_000008.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_03a74938-0db3-4544-9a1a-e74121c47a9a_000009.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_03a74938-0db3-4544-9a1a-e74121c47a9a_000009.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_03b5d73c-d096-4d5c-af50-39c218425fcd_000010.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_03b5d73c-d096-4d5c-af50-39c218425fcd_000010.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_03b7f01a-8122-4cdf-8ddc-2b052f4b4099_000011.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_03b7f01a-8122-4cdf-8ddc-2b052f4b4099_000011.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_03e15c74-4234-4074-bd5b-b4b81834d3d6_000012.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_03e15c74-4234-4074-bd5b-b4b81834d3d6_000012.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_04c3a34e-a160-4421-827e-89671761ef82_000013.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_04c3a34e-a160-4421-827e-89671761ef82_000013.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_05ae2939-4da1-41de-8bf8-0b225eba2d60_000014.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_05ae2939-4da1-41de-8bf8-0b225eba2d60_000014.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_05f22ee2-e097-400c-8fcf-07a35e404bef_000015.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_05f22ee2-e097-400c-8fcf-07a35e404bef_000015.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0a25da23-787f-47ce-877e-2934275b0801_000016.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0a25da23-787f-47ce-877e-2934275b0801_000016.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0a2fd84b-e62b-4153-beab-75d7d8757f75_000017.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0a2fd84b-e62b-4153-beab-75d7d8757f75_000017.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0a3f577c-5f57-452d-8ae2-c5e042079467_000018.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0a3f577c-5f57-452d-8ae2-c5e042079467_000018.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0a508419-ba4f-428c-9a30-43feb39c35c2_000019.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0a508419-ba4f-428c-9a30-43feb39c35c2_000019.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0a64434b-f2aa-4e8c-be2e-aaefeaea1951_000020.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0a64434b-f2aa-4e8c-be2e-aaefeaea1951_000020.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0a64cf79-80be-436a-bb3d-978b586a4a4a_000021.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0a64cf79-80be-436a-bb3d-978b586a4a4a_000021.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0a861d21-a718-426c-9003-d01ecd014dda_000022.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0a861d21-a718-426c-9003-d01ecd014dda_000022.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0a945e9c-17ec-4879-9c51-5601bae0aa3c_000023.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0a945e9c-17ec-4879-9c51-5601bae0aa3c_000023.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0ab286ad-3b4f-4c5d-af02-314a2f41a518_000024.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0ab286ad-3b4f-4c5d-af02-314a2f41a518_000024.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0abee68d-f929-4da9-90b3-dcde15f06ef8_000025.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0abee68d-f929-4da9-90b3-dcde15f06ef8_000025.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0b08ec01-337a-4f20-a4d7-43313d0724a6_000026.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0b08ec01-337a-4f20-a4d7-43313d0724a6_000026.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0b12103e-e05e-45b4-8388-fb9f3b19a910_000027.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0b12103e-e05e-45b4-8388-fb9f3b19a910_000027.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0b3d19a0-b2b1-4458-a57a-27d218a42969_000028.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0b3d19a0-b2b1-4458-a57a-27d218a42969_000028.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0b784b2a-1606-445c-bbb6-f731a4fddbf8_000029.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0b784b2a-1606-445c-bbb6-f731a4fddbf8_000029.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0b8010cc-0c08-4ada-96b7-5d85a9b392fa_000030.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0b8010cc-0c08-4ada-96b7-5d85a9b392fa_000030.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0bb3109e-c94e-4314-9154-450c0754dedd_000031.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0bb3109e-c94e-4314-9154-450c0754dedd_000031.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0bcff559-6d11-4eef-9b2f-815aff1525d8_000032.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0bcff559-6d11-4eef-9b2f-815aff1525d8_000032.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0beee07d-9c87-4228-adde-d8e226aea725_000033.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0beee07d-9c87-4228-adde-d8e226aea725_000033.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0c12ae3c-5e78-479b-adde-a2d456eb4e64_000034.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0c12ae3c-5e78-479b-adde-a2d456eb4e64_000034.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0c14dad4-9994-4c58-8172-3131169b7471_000035.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0c14dad4-9994-4c58-8172-3131169b7471_000035.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0c449477-fc39-45cc-924c-4f81a1676fbd_000036.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0c449477-fc39-45cc-924c-4f81a1676fbd_000036.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0c62e786-7989-4d8b-a384-932aba030e16_000037.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0c62e786-7989-4d8b-a384-932aba030e16_000037.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0c6e6469-fa81-44d0-b30e-a10a6aa102de_000038.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0c6e6469-fa81-44d0-b30e-a10a6aa102de_000038.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0c743545-4bab-4174-8ede-4a553c283ba3_000039.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0c743545-4bab-4174-8ede-4a553c283ba3_000039.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0ca5ff19-05e7-48ac-b738-af56a47f1d19_000040.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0ca5ff19-05e7-48ac-b738-af56a47f1d19_000040.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0cb52cde-7faf-4359-96f4-c2cb3ed32819_000041.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0cb52cde-7faf-4359-96f4-c2cb3ed32819_000041.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0cf59388-36a8-49d6-934f-cbbd1364d93c_000042.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0cf59388-36a8-49d6-934f-cbbd1364d93c_000042.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0d09188c-9307-4104-9154-fa32669c36fb_000043.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0d09188c-9307-4104-9154-fa32669c36fb_000043.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0d403d47-85bd-434a-8b3f-e2d3c59bfa9b_000044.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0d403d47-85bd-434a-8b3f-e2d3c59bfa9b_000044.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0d99e1f5-5a21-4b06-9524-3d16bd7d1eff_000045.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0d99e1f5-5a21-4b06-9524-3d16bd7d1eff_000045.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0db231c1-0412-41a9-b902-ede14b1050aa_000046.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0db231c1-0412-41a9-b902-ede14b1050aa_000046.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0dcfc0b4-844c-49c6-b329-3ff896cf941c_000047.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0dcfc0b4-844c-49c6-b329-3ff896cf941c_000047.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0dd5db3f-ebd2-4e1c-ae32-aec49ed631a5_000048.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0dd5db3f-ebd2-4e1c-ae32-aec49ed631a5_000048.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0deb8435-e1fb-41c5-b281-3e8e566bb126_000049.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0deb8435-e1fb-41c5-b281-3e8e566bb126_000049.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0df243c5-ca45-4e4f-8013-ba09437d62b1_000050.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0df243c5-ca45-4e4f-8013-ba09437d62b1_000050.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0e577e7c-2d63-419f-9277-c7aa18ef7d2d_000051.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0e577e7c-2d63-419f-9277-c7aa18ef7d2d_000051.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0e7f98b4-d726-4287-a53f-8de528c0ca28_000052.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0e7f98b4-d726-4287-a53f-8de528c0ca28_000052.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0e92b2a9-2340-4f65-b68d-76f1d09bf3db_000053.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0e92b2a9-2340-4f65-b68d-76f1d09bf3db_000053.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0ea16eea-17f1-46a1-bf04-1dd15bcc8185_000054.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0ea16eea-17f1-46a1-bf04-1dd15bcc8185_000054.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0ea7527e-de2b-4f2a-bcb4-dc37ae1888b6_000055.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0ea7527e-de2b-4f2a-bcb4-dc37ae1888b6_000055.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0ebe7f2f-0a19-4ce8-b58f-2189c22dba64_000056.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0ebe7f2f-0a19-4ce8-b58f-2189c22dba64_000056.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0ee7c51a-9a17-43cf-8a29-d79ba78f008b_000057.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0ee7c51a-9a17-43cf-8a29-d79ba78f008b_000057.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0ef6ab1d-2a5f-47d7-b84c-611a0f26e527_000058.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0ef6ab1d-2a5f-47d7-b84c-611a0f26e527_000058.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0effbaf1-eb19-4f97-b7d5-39ba2de47c91_000059.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0effbaf1-eb19-4f97-b7d5-39ba2de47c91_000059.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0f118e83-6cda-4dce-b6ca-1be1d72fa8e9_000060.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0f118e83-6cda-4dce-b6ca-1be1d72fa8e9_000060.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0f17e181-13dc-44f9-ae84-ccfbc1dcff6f_000061.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0f17e181-13dc-44f9-ae84-ccfbc1dcff6f_000061.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0f64a728-8a8a-430d-8584-e93ed71d8f8a_000062.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0f64a728-8a8a-430d-8584-e93ed71d8f8a_000062.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0fa67b7f-16d5-44b1-9473-8080cd170598_000063.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0fa67b7f-16d5-44b1-9473-8080cd170598_000063.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_0ffa9cc0-eeda-4d7e-aca3-81ceec7543d1_000064.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_0ffa9cc0-eeda-4d7e-aca3-81ceec7543d1_000064.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1a021d56-c09f-4444-b4ab-c80f2be0e6a7_000065.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1a021d56-c09f-4444-b4ab-c80f2be0e6a7_000065.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1a1324b1-f4ee-4fbd-b23e-3d2914c07647_000066.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1a1324b1-f4ee-4fbd-b23e-3d2914c07647_000066.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1a2b231e-6394-480a-bcfa-03c427e1d91f_000067.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1a2b231e-6394-480a-bcfa-03c427e1d91f_000067.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1a5380d4-651a-42fc-b8c2-d28f9039782c_000068.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1a5380d4-651a-42fc-b8c2-d28f9039782c_000068.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1a74b671-36a6-4788-8ea2-2dc74746a86b_000069.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1a74b671-36a6-4788-8ea2-2dc74746a86b_000069.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1a972bcc-832f-4207-a1a5-0df314e97a53_000070.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1a972bcc-832f-4207-a1a5-0df314e97a53_000070.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1aab2fe2-36b4-4a78-81cb-99a3faeab9b5_000071.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1aab2fe2-36b4-4a78-81cb-99a3faeab9b5_000071.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1aba5353-d5a2-42e3-ad7f-720405d3cdce_000072.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1aba5353-d5a2-42e3-ad7f-720405d3cdce_000072.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1b3165c1-3a4c-4f53-892b-27d309af1277_000073.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1b3165c1-3a4c-4f53-892b-27d309af1277_000073.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1b6bbfbd-36d1-4bd6-9e32-03efbde62264_000074.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1b6bbfbd-36d1-4bd6-9e32-03efbde62264_000074.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1b6c1916-0415-4a4d-a80c-45f68bc68a9a_000075.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1b6c1916-0415-4a4d-a80c-45f68bc68a9a_000075.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1b978c18-750d-4a5c-94f9-977e9aff5585_000076.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1b978c18-750d-4a5c-94f9-977e9aff5585_000076.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1c4ef1be-c550-4825-8d23-e3abf30642d7_000077.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1c4ef1be-c550-4825-8d23-e3abf30642d7_000077.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1c523e93-3a01-4bb5-a978-c1bcb2a472b5_000078.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1c523e93-3a01-4bb5-a978-c1bcb2a472b5_000078.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1cb309ae-4e7e-402a-b2ca-d5977ba61545_000079.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1cb309ae-4e7e-402a-b2ca-d5977ba61545_000079.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1cdc7f16-665f-4009-a725-117768f49b57_000080.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1cdc7f16-665f-4009-a725-117768f49b57_000080.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1ce69979-4261-4a14-979a-797fae297ea2_000081.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1ce69979-4261-4a14-979a-797fae297ea2_000081.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1d05d79d-da31-4fc1-9dac-0f484c60180c_000082.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1d05d79d-da31-4fc1-9dac-0f484c60180c_000082.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1d3415d5-000a-4008-b473-8be912823203_000083.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1d3415d5-000a-4008-b473-8be912823203_000083.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1d3aa9c0-c61a-4cff-b052-f05f2979dff6_000084.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1d3aa9c0-c61a-4cff-b052-f05f2979dff6_000084.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1da5a135-6978-4ea7-b978-4f0102e9bc88_000085.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1da5a135-6978-4ea7-b978-4f0102e9bc88_000085.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1dc471c8-3977-4f44-b911-212fae1801f3_000086.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1dc471c8-3977-4f44-b911-212fae1801f3_000086.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1dfa891d-6c48-4735-97fe-22b56fb4807a_000087.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1dfa891d-6c48-4735-97fe-22b56fb4807a_000087.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1dfdb283-78f0-4989-a35e-3cbe52bfa10e_000088.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1dfdb283-78f0-4989-a35e-3cbe52bfa10e_000088.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1e39d517-81be-4e31-b43e-7cab37d20444_000089.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1e39d517-81be-4e31-b43e-7cab37d20444_000089.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1e7efbd0-e245-4731-9186-54da7d9a6536_000090.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1e7efbd0-e245-4731-9186-54da7d9a6536_000090.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1ee852b7-8c16-4f53-be89-1420bc90e38b_000091.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1ee852b7-8c16-4f53-be89-1420bc90e38b_000091.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1ef34889-08a2-4db9-8451-3ac5acf9b258_000092.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1ef34889-08a2-4db9-8451-3ac5acf9b258_000092.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1f9de837-f663-45ab-bb35-68233c8119e7_000093.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1f9de837-f663-45ab-bb35-68233c8119e7_000093.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1fb09ac3-7347-4aaa-9b9e-e7c51ce3c643_000094.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1fb09ac3-7347-4aaa-9b9e-e7c51ce3c643_000094.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1fb34ce4-3067-42ff-b941-b887177d0d2b_000095.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1fb34ce4-3067-42ff-b941-b887177d0d2b_000095.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_1fd8eace-a737-45ab-b556-d1ade2738612_000096.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_1fd8eace-a737-45ab-b556-d1ade2738612_000096.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2b334d72-14f8-4126-b903-58247553ebe6_000097.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2b334d72-14f8-4126-b903-58247553ebe6_000097.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2b9a40af-bad5-4bc1-9b11-8052fbdefb0c_000098.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2b9a40af-bad5-4bc1-9b11-8052fbdefb0c_000098.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2bbe0fb3-08ce-4586-8e67-88dcf9ccfcbf_000099.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2bbe0fb3-08ce-4586-8e67-88dcf9ccfcbf_000099.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2be5f915-d8fa-47d6-8cc2-c104d05bbe18_000100.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2be5f915-d8fa-47d6-8cc2-c104d05bbe18_000100.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2c0c44ba-3076-4e32-9e87-78a92e1ca888_000101.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2c0c44ba-3076-4e32-9e87-78a92e1ca888_000101.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2cf07a2a-a2f4-4e84-bf9f-2e1522c9de60_000102.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2cf07a2a-a2f4-4e84-bf9f-2e1522c9de60_000102.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2cfd18a9-1e17-4bb9-a4da-437ebf5874c1_000103.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2cfd18a9-1e17-4bb9-a4da-437ebf5874c1_000103.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2d1d6260-e36c-4dfc-ab73-52c39d9e0822_000104.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2d1d6260-e36c-4dfc-ab73-52c39d9e0822_000104.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2d3b93e4-0bfb-427c-bdc8-26ec5b8d3e81_000105.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2d3b93e4-0bfb-427c-bdc8-26ec5b8d3e81_000105.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2d79d5bb-70d1-4eb6-87ae-64c4e965d0e3_000106.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2d79d5bb-70d1-4eb6-87ae-64c4e965d0e3_000106.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2e79853e-638f-4cbf-833b-b1a08410d49e_000107.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2e79853e-638f-4cbf-833b-b1a08410d49e_000107.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2ebcbece-dd17-43df-a8c7-54bb7ab1eeac_000108.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2ebcbece-dd17-43df-a8c7-54bb7ab1eeac_000108.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2f06af2b-f1d3-42e9-b5e4-1fb1c332957e_000109.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2f06af2b-f1d3-42e9-b5e4-1fb1c332957e_000109.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2f3249f3-47e5-4e2a-8273-6df59aa63d77_000110.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2f3249f3-47e5-4e2a-8273-6df59aa63d77_000110.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_2f65f2a5-52b7-4a8e-afb0-df3eeec51a61_000111.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_2f65f2a5-52b7-4a8e-afb0-df3eeec51a61_000111.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3a2bcf32-6bb1-4609-82a0-7532ea886f95_000112.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3a2bcf32-6bb1-4609-82a0-7532ea886f95_000112.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3a69a6b1-c52f-4639-b049-740e14eeb236_000113.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3a69a6b1-c52f-4639-b049-740e14eeb236_000113.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3a917861-b70e-4c16-b611-b4b248b8d08b_000114.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3a917861-b70e-4c16-b611-b4b248b8d08b_000114.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3ae5e338-1f34-4e43-adb3-541a4fda43f9_000115.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3ae5e338-1f34-4e43-adb3-541a4fda43f9_000115.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3aeab757-d5bf-47cd-94ad-7b28c8c2e6a2_000116.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3aeab757-d5bf-47cd-94ad-7b28c8c2e6a2_000116.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3b5a2952-3666-4a9b-beb0-ab87cb50e904_000117.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3b5a2952-3666-4a9b-beb0-ab87cb50e904_000117.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3bb70983-7bc3-4836-b9cc-60619b141eb3_000118.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3bb70983-7bc3-4836-b9cc-60619b141eb3_000118.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3bdc5c98-fed9-458f-8e8b-4b7553b9bba5_000119.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3bdc5c98-fed9-458f-8e8b-4b7553b9bba5_000119.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3c52b2df-20be-42a5-a8d3-48eacbbe456f_000120.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3c52b2df-20be-42a5-a8d3-48eacbbe456f_000120.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3c7f79f1-67c0-4965-b270-ce90fd02f6d3_000121.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3c7f79f1-67c0-4965-b270-ce90fd02f6d3_000121.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3c89a617-f8e7-4637-bb59-6dd7979997c3_000122.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3c89a617-f8e7-4637-bb59-6dd7979997c3_000122.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3d289fe2-fa52-4047-b391-834a7dc1a309_000123.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3d289fe2-fa52-4047-b391-834a7dc1a309_000123.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3d591cf5-e0a4-48fa-828a-ace9b5541a70_000124.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3d591cf5-e0a4-48fa-828a-ace9b5541a70_000124.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3d73b5ca-f28e-4662-b185-1d593532a3a8_000125.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3d73b5ca-f28e-4662-b185-1d593532a3a8_000125.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3dc0e49c-bf2f-424e-9055-9b56c7636910_000126.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3dc0e49c-bf2f-424e-9055-9b56c7636910_000126.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3e33597f-5681-46cc-84a6-f49ec0858601_000127.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3e33597f-5681-46cc-84a6-f49ec0858601_000127.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3e663fe4-1c32-434b-8219-08b84b576b5f_000128.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3e663fe4-1c32-434b-8219-08b84b576b5f_000128.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3f323898-8bf5-4ecc-bfe3-6136c7043331_000129.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3f323898-8bf5-4ecc-bfe3-6136c7043331_000129.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3f6e630e-f4b3-43a1-b11e-0d261454fcc6_000130.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3f6e630e-f4b3-43a1-b11e-0d261454fcc6_000130.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_3ffc070c-380e-4b1b-b4f4-14b310e20f87_000131.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_3ffc070c-380e-4b1b-b4f4-14b310e20f87_000131.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_4a239c51-774f-4a3f-b9f9-da677166c12f_000132.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_4a239c51-774f-4a3f-b9f9-da677166c12f_000132.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_4a4d9f0c-f1fe-4ee3-abb8-86138d5a0ae6_000133.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_4a4d9f0c-f1fe-4ee3-abb8-86138d5a0ae6_000133.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_4af17f37-26f2-49a4-a57a-f5e88b9d8b82_000134.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_4af17f37-26f2-49a4-a57a-f5e88b9d8b82_000134.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_4b1f510d-bde3-4108-9561-0c81729a9910_000135.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_4b1f510d-bde3-4108-9561-0c81729a9910_000135.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_4b973a7a-029f-4afd-a031-51e48aa136d5_000136.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_4b973a7a-029f-4afd-a031-51e48aa136d5_000136.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_4bb654ab-d8f8-47f4-a667-2e09a8dd6c37_000137.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_4bb654ab-d8f8-47f4-a667-2e09a8dd6c37_000137.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_4be17c85-9f35-4dcd-81b1-3689efbab561_000138.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_4be17c85-9f35-4dcd-81b1-3689efbab561_000138.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_4be73087-ea0b-4b94-a150-257938d6d316_000139.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_4be73087-ea0b-4b94-a150-257938d6d316_000139.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_4c25a86e-c47c-4a34-aa66-3d34d1f1f011_000140.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_4c25a86e-c47c-4a34-aa66-3d34d1f1f011_000140.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_4c932a95-9b6f-4b13-937d-cb680dcd5397_000141.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_4c932a95-9b6f-4b13-937d-cb680dcd5397_000141.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_4d6db34f-695f-4b4d-a256-e2eff9455efe_000142.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_4d6db34f-695f-4b4d-a256-e2eff9455efe_000142.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_4f32db41-aab2-41a5-a5a2-1101ae283deb_000143.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_4f32db41-aab2-41a5-a5a2-1101ae283deb_000143.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_4f851e71-3c88-44e5-87a3-d740edf16c32_000144.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_4f851e71-3c88-44e5-87a3-d740edf16c32_000144.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5a61c738-9af8-455f-8e29-6432c1aab493_000145.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5a61c738-9af8-455f-8e29-6432c1aab493_000145.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5a6f0044-478e-4197-8b14-645fe4310109_000146.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5a6f0044-478e-4197-8b14-645fe4310109_000146.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5ac7cb2b-f3ce-4a1b-9862-dec5303995d4_000147.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5ac7cb2b-f3ce-4a1b-9862-dec5303995d4_000147.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5b212ba7-26d6-4ad7-9398-6a1d4387fbd5_000148.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5b212ba7-26d6-4ad7-9398-6a1d4387fbd5_000148.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5b31dfd2-8011-4975-991b-0813892ad663_000149.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5b31dfd2-8011-4975-991b-0813892ad663_000149.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5ba7148c-b6e4-4790-b3f3-051e2cfeb0c0_000150.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5ba7148c-b6e4-4790-b3f3-051e2cfeb0c0_000150.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5c08c955-cc55-400e-8826-c1d6c381885c_000151.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5c08c955-cc55-400e-8826-c1d6c381885c_000151.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5c797d74-d1ff-4a11-b779-1892229e52f3_000152.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5c797d74-d1ff-4a11-b779-1892229e52f3_000152.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5cd21d27-ee9e-4d3f-a72c-4ea6e1f5c3a3_000153.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5cd21d27-ee9e-4d3f-a72c-4ea6e1f5c3a3_000153.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5d38aae5-572f-430b-a8a8-23790cd688fc_000154.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5d38aae5-572f-430b-a8a8-23790cd688fc_000154.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5e6f12d1-a6c5-4c7c-8b6d-7ec83c02c09c_000155.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5e6f12d1-a6c5-4c7c-8b6d-7ec83c02c09c_000155.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5ee9869c-deea-4610-8993-e694155f7641_000156.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5ee9869c-deea-4610-8993-e694155f7641_000156.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5f2a9a55-f26c-459d-b7c9-784d2af8e502_000157.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5f2a9a55-f26c-459d-b7c9-784d2af8e502_000157.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5f3c7ece-b5fb-4e82-a490-8c13668e8c5f_000158.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5f3c7ece-b5fb-4e82-a490-8c13668e8c5f_000158.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5f759a03-4006-4fb0-ae6f-504b068e8dc4_000159.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5f759a03-4006-4fb0-ae6f-504b068e8dc4_000159.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5fb499e7-2197-4800-8a25-28d978af54b3_000160.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5fb499e7-2197-4800-8a25-28d978af54b3_000160.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5fb5d456-55e1-4f4a-b8b5-6d17eabae530_000161.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5fb5d456-55e1-4f4a-b8b5-6d17eabae530_000161.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_5fe6a0af-5b32-47a0-9021-448e02ec5369_000162.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_5fe6a0af-5b32-47a0-9021-448e02ec5369_000162.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6a0c96d4-cb74-444b-a470-379769ea9b2e_000163.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6a0c96d4-cb74-444b-a470-379769ea9b2e_000163.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6a4ebdac-32ab-4487-8bbe-903f8cf52b72_000164.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6a4ebdac-32ab-4487-8bbe-903f8cf52b72_000164.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6a8c6c72-a662-495f-8da0-68cec7e9c5de_000165.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6a8c6c72-a662-495f-8da0-68cec7e9c5de_000165.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6ae54057-11b9-4876-b588-959682ddebca_000166.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6ae54057-11b9-4876-b588-959682ddebca_000166.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6aecc895-3b90-4765-ac1c-4263db1d9835_000167.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6aecc895-3b90-4765-ac1c-4263db1d9835_000167.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6aeede7a-feab-4072-9e31-acf3a4edea9c_000168.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6aeede7a-feab-4072-9e31-acf3a4edea9c_000168.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6b1a541f-6e89-43d3-8074-29422c4a93fa_000169.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6b1a541f-6e89-43d3-8074-29422c4a93fa_000169.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6b21f540-7f8e-4f70-a220-51c8a19d7e02_000170.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6b21f540-7f8e-4f70-a220-51c8a19d7e02_000170.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6b50f81d-4e0a-4e54-8500-761311c2e5c4_000171.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6b50f81d-4e0a-4e54-8500-761311c2e5c4_000171.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6b67dc05-fbd5-4f8b-a222-dcae6367524a_000172.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6b67dc05-fbd5-4f8b-a222-dcae6367524a_000172.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6b91142e-3864-431e-925c-704351b42816_000173.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6b91142e-3864-431e-925c-704351b42816_000173.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6babfc74-4437-4e2c-8c72-7cb073fc68b1_000174.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6babfc74-4437-4e2c-8c72-7cb073fc68b1_000174.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6bccb23b-f0dc-430b-b364-05f0e52a4246_000175.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6bccb23b-f0dc-430b-b364-05f0e52a4246_000175.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6bff2826-2f2e-4034-bf1b-414b4d6b12b6_000176.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6bff2826-2f2e-4034-bf1b-414b4d6b12b6_000176.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6c2ab369-bc6b-43e5-b61f-3aa9d73868c3_000177.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6c2ab369-bc6b-43e5-b61f-3aa9d73868c3_000177.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6c599532-03ac-4713-8235-1036d64ccd76_000178.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6c599532-03ac-4713-8235-1036d64ccd76_000178.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6cb533b0-a449-489f-849a-3cc70db51581_000179.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6cb533b0-a449-489f-849a-3cc70db51581_000179.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6cbd0066-d343-4084-a89e-3f0c602849fb_000180.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6cbd0066-d343-4084-a89e-3f0c602849fb_000180.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6ccb7d9b-39e1-488a-a648-f0af72e173b7_000181.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6ccb7d9b-39e1-488a-a648-f0af72e173b7_000181.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6cd02edd-9249-4a70-9235-41772f397f11_000182.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6cd02edd-9249-4a70-9235-41772f397f11_000182.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6d023037-8a46-46c3-ba93-57b6d1ed95fa_000183.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6d023037-8a46-46c3-ba93-57b6d1ed95fa_000183.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6d2ce9f0-2846-4860-b311-043f16cdc8f4_000184.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6d2ce9f0-2846-4860-b311-043f16cdc8f4_000184.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6d30807a-4dc2-4bab-aae7-b1745832e3fa_000185.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6d30807a-4dc2-4bab-aae7-b1745832e3fa_000185.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6d76731e-3bad-4323-8f30-552f6e92eec3_000186.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6d76731e-3bad-4323-8f30-552f6e92eec3_000186.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6d76f24b-f06a-44d3-b028-689a733aa476_000187.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6d76f24b-f06a-44d3-b028-689a733aa476_000187.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6d77dbae-284a-4ba5-a3ef-120bc0c4019b_000188.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6d77dbae-284a-4ba5-a3ef-120bc0c4019b_000188.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6d7c48f1-8aad-44f2-aa28-e97b08ed6a9b_000189.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6d7c48f1-8aad-44f2-aa28-e97b08ed6a9b_000189.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6d861a31-5777-46e3-9e2b-039739c8c883_000190.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6d861a31-5777-46e3-9e2b-039739c8c883_000190.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6dea4230-b7fd-4095-a19b-fd04d1c5a678_000191.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6dea4230-b7fd-4095-a19b-fd04d1c5a678_000191.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6df07592-3c3c-49a8-987f-81d05c7e78f1_000192.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6df07592-3c3c-49a8-987f-81d05c7e78f1_000192.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6e0b132b-c5d8-40cc-88c3-8383e6e0e4a3_000193.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6e0b132b-c5d8-40cc-88c3-8383e6e0e4a3_000193.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6e1132ab-d5c3-49a3-83fb-3909826eaffa_000194.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6e1132ab-d5c3-49a3-83fb-3909826eaffa_000194.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6e1ed575-8b7a-4ea3-aa9b-52bcefee62ac_000195.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6e1ed575-8b7a-4ea3-aa9b-52bcefee62ac_000195.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6e2b95d3-29d5-4903-ad14-d1b51bf95d33_000196.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6e2b95d3-29d5-4903-ad14-d1b51bf95d33_000196.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6e3cf770-88c8-43b5-bb8f-faf6cce627ce_000197.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6e3cf770-88c8-43b5-bb8f-faf6cce627ce_000197.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6e8c4aac-2147-4d6a-819a-b41015ee6cde_000198.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6e8c4aac-2147-4d6a-819a-b41015ee6cde_000198.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            },
+            {
+                "img_path": "Endo/colon/test/anomaly/Endo_defect_6eacc283-1446-4682-a36a-5a362ecac3ef_000199.bmp",
+                "mask_path": "Endo/colon/ground_truth/anomaly/Endo_defect_6eacc283-1446-4682-a36a-5a362ecac3ef_000199.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "Endo",
+                "anomaly": 1
+            }
+        ]
+    }
+}

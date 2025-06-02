@@ -1,0 +1,3058 @@
+{
+    "train": {
+        "colon": [
+            {
+                "img_path": "",
+                "mask_path": "",
+                "cls_name": "colon",
+                "specie_name": "good",
+                "dataset_name": "",
+                "anomaly": 0
+            }
+        ]
+    },
+    "test": {
+        "colon": [
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_100_000002.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_100_000002.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_101_000003.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_101_000003.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_102_000004.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_102_000004.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_103_000005.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_103_000005.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_104_000006.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_104_000006.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_105_000007.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_105_000007.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_106_000008.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_106_000008.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_107_000009.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_107_000009.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_108_000010.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_108_000010.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_109_000011.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_109_000011.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_10_000001.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_10_000001.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_110_000013.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_110_000013.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_111_000014.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_111_000014.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_112_000015.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_112_000015.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_113_000016.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_113_000016.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_114_000017.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_114_000017.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_115_000018.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_115_000018.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_116_000019.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_116_000019.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_117_000020.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_117_000020.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_118_000021.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_118_000021.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_119_000022.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_119_000022.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_11_000012.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_11_000012.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_120_000024.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_120_000024.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_121_000025.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_121_000025.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_122_000026.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_122_000026.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_123_000027.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_123_000027.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_124_000028.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_124_000028.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_125_000029.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_125_000029.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_126_000030.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_126_000030.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_127_000031.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_127_000031.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_128_000032.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_128_000032.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_129_000033.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_129_000033.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_12_000023.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_12_000023.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_130_000035.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_130_000035.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_131_000036.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_131_000036.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_132_000037.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_132_000037.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_133_000038.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_133_000038.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_134_000039.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_134_000039.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_135_000040.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_135_000040.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_136_000041.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_136_000041.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_137_000042.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_137_000042.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_138_000043.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_138_000043.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_139_000044.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_139_000044.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_13_000034.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_13_000034.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_140_000046.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_140_000046.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_141_000047.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_141_000047.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_142_000048.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_142_000048.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_143_000049.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_143_000049.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_144_000050.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_144_000050.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_145_000051.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_145_000051.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_146_000052.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_146_000052.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_147_000053.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_147_000053.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_148_000054.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_148_000054.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_149_000055.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_149_000055.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_14_000045.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_14_000045.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_150_000057.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_150_000057.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_151_000058.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_151_000058.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_152_000059.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_152_000059.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_153_000060.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_153_000060.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_154_000061.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_154_000061.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_155_000062.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_155_000062.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_156_000063.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_156_000063.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_157_000064.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_157_000064.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_158_000065.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_158_000065.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_159_000066.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_159_000066.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_15_000056.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_15_000056.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_160_000068.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_160_000068.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_161_000069.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_161_000069.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_162_000070.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_162_000070.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_163_000071.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_163_000071.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_164_000072.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_164_000072.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_165_000073.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_165_000073.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_166_000074.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_166_000074.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_167_000075.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_167_000075.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_168_000076.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_168_000076.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_169_000077.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_169_000077.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_16_000067.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_16_000067.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_170_000079.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_170_000079.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_171_000080.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_171_000080.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_172_000081.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_172_000081.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_173_000082.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_173_000082.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_174_000083.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_174_000083.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_175_000084.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_175_000084.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_176_000085.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_176_000085.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_177_000086.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_177_000086.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_178_000087.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_178_000087.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_179_000088.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_179_000088.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_17_000078.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_17_000078.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_180_000090.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_180_000090.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_181_000091.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_181_000091.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_182_000092.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_182_000092.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_183_000093.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_183_000093.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_184_000094.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_184_000094.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_185_000095.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_185_000095.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_186_000096.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_186_000096.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_187_000097.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_187_000097.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_188_000098.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_188_000098.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_189_000099.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_189_000099.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_18_000089.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_18_000089.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_190_000101.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_190_000101.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_191_000102.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_191_000102.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_192_000103.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_192_000103.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_193_000104.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_193_000104.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_194_000105.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_194_000105.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_195_000106.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_195_000106.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_196_000107.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_196_000107.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_197_000108.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_197_000108.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_198_000109.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_198_000109.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_199_000110.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_199_000110.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_19_000100.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_19_000100.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_1_000000.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_1_000000.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_200_000113.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_200_000113.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_201_000114.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_201_000114.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_202_000115.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_202_000115.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_203_000116.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_203_000116.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_204_000117.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_204_000117.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_205_000118.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_205_000118.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_206_000119.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_206_000119.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_207_000120.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_207_000120.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_208_000121.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_208_000121.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_209_000122.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_209_000122.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_20_000112.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_20_000112.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_210_000124.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_210_000124.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_211_000125.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_211_000125.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_212_000126.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_212_000126.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_213_000127.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_213_000127.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_214_000128.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_214_000128.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_215_000129.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_215_000129.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_216_000130.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_216_000130.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_217_000131.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_217_000131.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_218_000132.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_218_000132.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_219_000133.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_219_000133.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_21_000123.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_21_000123.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_220_000135.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_220_000135.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_221_000136.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_221_000136.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_222_000137.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_222_000137.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_223_000138.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_223_000138.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_224_000139.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_224_000139.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_225_000140.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_225_000140.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_226_000141.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_226_000141.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_227_000142.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_227_000142.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_228_000143.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_228_000143.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_229_000144.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_229_000144.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_22_000134.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_22_000134.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_230_000146.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_230_000146.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_231_000147.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_231_000147.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_232_000148.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_232_000148.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_233_000149.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_233_000149.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_234_000150.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_234_000150.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_235_000151.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_235_000151.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_236_000152.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_236_000152.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_237_000153.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_237_000153.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_238_000154.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_238_000154.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_239_000155.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_239_000155.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_23_000145.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_23_000145.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_240_000157.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_240_000157.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_241_000158.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_241_000158.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_242_000159.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_242_000159.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_243_000160.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_243_000160.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_244_000161.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_244_000161.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_245_000162.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_245_000162.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_246_000163.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_246_000163.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_247_000164.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_247_000164.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_248_000165.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_248_000165.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_249_000166.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_249_000166.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_24_000156.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_24_000156.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_250_000168.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_250_000168.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_251_000169.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_251_000169.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_252_000170.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_252_000170.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_253_000171.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_253_000171.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_254_000172.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_254_000172.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_255_000173.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_255_000173.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_256_000174.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_256_000174.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_257_000175.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_257_000175.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_258_000176.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_258_000176.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_259_000177.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_259_000177.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_25_000167.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_25_000167.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_260_000179.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_260_000179.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_261_000180.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_261_000180.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_262_000181.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_262_000181.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_263_000182.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_263_000182.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_264_000183.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_264_000183.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_265_000184.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_265_000184.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_266_000185.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_266_000185.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_267_000186.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_267_000186.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_268_000187.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_268_000187.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_269_000188.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_269_000188.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_26_000178.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_26_000178.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_270_000190.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_270_000190.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_271_000191.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_271_000191.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_272_000192.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_272_000192.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_273_000193.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_273_000193.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_274_000194.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_274_000194.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_275_000195.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_275_000195.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_276_000196.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_276_000196.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_277_000197.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_277_000197.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_278_000198.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_278_000198.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_279_000199.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_279_000199.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_27_000189.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_27_000189.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_280_000201.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_280_000201.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_281_000202.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_281_000202.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_282_000203.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_282_000203.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_283_000204.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_283_000204.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_284_000205.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_284_000205.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_285_000206.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_285_000206.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_286_000207.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_286_000207.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_287_000208.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_287_000208.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_288_000209.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_288_000209.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_289_000210.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_289_000210.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_28_000200.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_28_000200.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_290_000212.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_290_000212.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_291_000213.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_291_000213.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_292_000214.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_292_000214.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_293_000215.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_293_000215.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_294_000216.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_294_000216.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_295_000217.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_295_000217.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_296_000218.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_296_000218.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_297_000219.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_297_000219.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_298_000220.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_298_000220.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_299_000221.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_299_000221.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_29_000211.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_29_000211.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_2_000111.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_2_000111.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_300_000224.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_300_000224.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_301_000225.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_301_000225.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_302_000226.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_302_000226.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_303_000227.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_303_000227.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_304_000228.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_304_000228.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_305_000229.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_305_000229.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_306_000230.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_306_000230.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_307_000231.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_307_000231.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_308_000232.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_308_000232.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_309_000233.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_309_000233.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_30_000223.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_30_000223.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_310_000235.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_310_000235.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_311_000236.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_311_000236.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_312_000237.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_312_000237.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_313_000238.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_313_000238.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_314_000239.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_314_000239.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_315_000240.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_315_000240.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_316_000241.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_316_000241.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_317_000242.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_317_000242.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_318_000243.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_318_000243.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_319_000244.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_319_000244.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_31_000234.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_31_000234.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_320_000246.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_320_000246.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_321_000247.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_321_000247.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_322_000248.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_322_000248.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_323_000249.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_323_000249.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_324_000250.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_324_000250.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_325_000251.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_325_000251.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_326_000252.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_326_000252.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_327_000253.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_327_000253.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_328_000254.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_328_000254.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_329_000255.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_329_000255.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_32_000245.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_32_000245.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_330_000257.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_330_000257.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_331_000258.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_331_000258.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_332_000259.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_332_000259.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_333_000260.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_333_000260.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_334_000261.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_334_000261.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_335_000262.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_335_000262.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_336_000263.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_336_000263.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_337_000264.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_337_000264.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_338_000265.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_338_000265.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_339_000266.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_339_000266.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_33_000256.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_33_000256.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_340_000268.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_340_000268.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_341_000269.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_341_000269.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_342_000270.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_342_000270.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_343_000271.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_343_000271.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_344_000272.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_344_000272.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_345_000273.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_345_000273.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_346_000274.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_346_000274.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_347_000275.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_347_000275.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_348_000276.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_348_000276.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_349_000277.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_349_000277.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_34_000267.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_34_000267.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_350_000279.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_350_000279.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_351_000280.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_351_000280.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_352_000281.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_352_000281.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_353_000282.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_353_000282.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_354_000283.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_354_000283.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_355_000284.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_355_000284.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_356_000285.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_356_000285.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_357_000286.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_357_000286.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_358_000287.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_358_000287.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_359_000288.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_359_000288.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_35_000278.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_35_000278.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_360_000290.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_360_000290.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_361_000291.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_361_000291.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_362_000292.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_362_000292.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_363_000293.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_363_000293.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_364_000294.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_364_000294.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_365_000295.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_365_000295.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_366_000296.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_366_000296.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_367_000297.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_367_000297.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_368_000298.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_368_000298.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_369_000299.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_369_000299.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_36_000289.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_36_000289.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_370_000301.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_370_000301.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_371_000302.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_371_000302.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_372_000303.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_372_000303.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_373_000304.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_373_000304.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_374_000305.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_374_000305.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_375_000306.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_375_000306.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_376_000307.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_376_000307.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_377_000308.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_377_000308.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_378_000309.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_378_000309.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_379_000310.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_379_000310.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_37_000300.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_37_000300.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_380_000312.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_380_000312.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_38_000311.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_38_000311.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_39_000313.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_39_000313.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_3_000222.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_3_000222.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_40_000315.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_40_000315.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_41_000316.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_41_000316.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_42_000317.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_42_000317.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_43_000318.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_43_000318.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_44_000319.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_44_000319.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_45_000320.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_45_000320.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_46_000321.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_46_000321.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_47_000322.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_47_000322.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_48_000323.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_48_000323.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_49_000324.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_49_000324.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_4_000314.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_4_000314.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_50_000326.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_50_000326.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_51_000327.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_51_000327.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_52_000328.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_52_000328.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_53_000329.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_53_000329.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_54_000330.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_54_000330.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_55_000331.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_55_000331.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_56_000332.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_56_000332.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_57_000333.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_57_000333.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_58_000334.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_58_000334.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_59_000335.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_59_000335.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_5_000325.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_5_000325.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_60_000337.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_60_000337.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_61_000338.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_61_000338.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_62_000339.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_62_000339.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_63_000340.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_63_000340.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_64_000341.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_64_000341.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_65_000342.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_65_000342.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_66_000343.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_66_000343.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_67_000344.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_67_000344.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_68_000345.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_68_000345.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_69_000346.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_69_000346.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_6_000336.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_6_000336.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_70_000348.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_70_000348.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_71_000349.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_71_000349.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_72_000350.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_72_000350.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_73_000351.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_73_000351.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_74_000352.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_74_000352.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_75_000353.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_75_000353.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_76_000354.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_76_000354.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_77_000355.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_77_000355.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_78_000356.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_78_000356.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_79_000357.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_79_000357.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_7_000347.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_7_000347.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_80_000359.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_80_000359.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_81_000360.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_81_000360.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_82_000361.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_82_000361.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_83_000362.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_83_000362.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_84_000363.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_84_000363.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_85_000364.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_85_000364.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_86_000365.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_86_000365.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_87_000366.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_87_000366.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_88_000367.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_88_000367.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_89_000368.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_89_000368.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_8_000358.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_8_000358.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_90_000370.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_90_000370.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_91_000371.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_91_000371.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_92_000372.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_92_000372.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_93_000373.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_93_000373.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_94_000374.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_94_000374.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_95_000375.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_95_000375.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_96_000376.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_96_000376.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_97_000377.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_97_000377.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_98_000378.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_98_000378.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_99_000379.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_99_000379.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            },
+            {
+                "img_path": "ColonDB/colon/test/anomaly/ColonDB_defect_9_000369.bmp",
+                "mask_path": "ColonDB/colon/ground_truth/anomaly/ColonDB_defect_9_000369.png",
+                "cls_name": "colon",
+                "specie_name": "anomaly",
+                "dataset_name": "ColonDB",
+                "anomaly": 1
+            }
+        ]
+    }
+}

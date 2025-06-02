@@ -1,0 +1,1618 @@
+{
+    "train": {
+        "head ct": [
+            {
+                "img_path": "",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "",
+                "anomaly": 0
+            }
+        ]
+    },
+    "test": {
+        "head ct": [
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_000_000000.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_000_000000.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_001_000001.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_001_000001.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_002_000002.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_002_000002.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_003_000003.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_003_000003.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_004_000004.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_004_000004.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_005_000005.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_005_000005.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_006_000006.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_006_000006.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_007_000007.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_007_000007.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_008_000008.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_008_000008.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_009_000009.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_009_000009.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_010_000010.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_010_000010.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_011_000011.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_011_000011.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_012_000012.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_012_000012.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_013_000013.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_013_000013.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_014_000014.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_014_000014.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_015_000015.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_015_000015.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_016_000016.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_016_000016.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_017_000017.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_017_000017.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_018_000018.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_018_000018.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_019_000019.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_019_000019.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_020_000020.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_020_000020.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_021_000021.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_021_000021.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_022_000022.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_022_000022.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_023_000023.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_023_000023.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_024_000024.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_024_000024.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_025_000025.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_025_000025.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_026_000026.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_026_000026.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_027_000027.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_027_000027.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_028_000028.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_028_000028.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_029_000029.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_029_000029.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_030_000030.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_030_000030.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_031_000031.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_031_000031.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_032_000032.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_032_000032.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_033_000033.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_033_000033.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_034_000034.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_034_000034.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_035_000035.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_035_000035.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_036_000036.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_036_000036.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_037_000037.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_037_000037.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_038_000038.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_038_000038.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_039_000039.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_039_000039.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_040_000040.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_040_000040.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_041_000041.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_041_000041.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_042_000042.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_042_000042.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_043_000043.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_043_000043.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_044_000044.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_044_000044.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_045_000045.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_045_000045.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_046_000046.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_046_000046.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_047_000047.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_047_000047.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_048_000048.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_048_000048.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_049_000049.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_049_000049.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_050_000050.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_050_000050.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_051_000051.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_051_000051.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_052_000052.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_052_000052.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_053_000053.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_053_000053.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_054_000054.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_054_000054.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_055_000055.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_055_000055.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_056_000056.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_056_000056.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_057_000057.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_057_000057.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_058_000058.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_058_000058.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_059_000059.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_059_000059.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_060_000060.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_060_000060.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_061_000061.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_061_000061.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_062_000062.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_062_000062.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_063_000063.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_063_000063.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_064_000064.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_064_000064.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_065_000065.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_065_000065.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_066_000066.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_066_000066.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_067_000067.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_067_000067.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_068_000068.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_068_000068.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_069_000069.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_069_000069.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_070_000070.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_070_000070.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_071_000071.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_071_000071.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_072_000072.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_072_000072.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_073_000073.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_073_000073.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_074_000074.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_074_000074.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_075_000075.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_075_000075.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_076_000076.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_076_000076.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_077_000077.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_077_000077.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_078_000078.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_078_000078.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_079_000079.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_079_000079.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_080_000080.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_080_000080.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_081_000081.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_081_000081.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_082_000082.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_082_000082.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_083_000083.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_083_000083.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_084_000084.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_084_000084.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_085_000085.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_085_000085.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_086_000086.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_086_000086.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_087_000087.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_087_000087.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_088_000088.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_088_000088.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_089_000089.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_089_000089.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_090_000090.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_090_000090.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_091_000091.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_091_000091.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_092_000092.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_092_000092.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_093_000093.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_093_000093.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_094_000094.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_094_000094.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_095_000095.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_095_000095.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_096_000096.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_096_000096.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_097_000097.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_097_000097.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_098_000098.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_098_000098.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/anomaly/HeadCT_defect_099_000099.bmp",
+                "mask_path": "HeadCT/head ct/ground_truth/anomaly/HeadCT_defect_099_000099.png",
+                "cls_name": "head ct",
+                "specie_name": "anomaly",
+                "dataset_name": "HeadCT",
+                "anomaly": 1
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_100_000100.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_101_000101.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_102_000102.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_103_000103.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_104_000104.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_105_000105.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_106_000106.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_107_000107.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_108_000108.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_109_000109.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_110_000110.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_111_000111.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_112_000112.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_113_000113.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_114_000114.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_115_000115.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_116_000116.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_117_000117.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_118_000118.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_119_000119.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_120_000120.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_121_000121.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_122_000122.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_123_000123.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_124_000124.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_125_000125.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_126_000126.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_127_000127.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_128_000128.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_129_000129.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_130_000130.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_131_000131.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_132_000132.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_133_000133.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_134_000134.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_135_000135.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_136_000136.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_137_000137.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_138_000138.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_139_000139.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_140_000140.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_141_000141.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_142_000142.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_143_000143.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_144_000144.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_145_000145.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_146_000146.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_147_000147.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_148_000148.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_149_000149.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_150_000150.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_151_000151.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_152_000152.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_153_000153.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_154_000154.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_155_000155.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_156_000156.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_157_000157.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_158_000158.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_159_000159.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_160_000160.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_161_000161.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_162_000162.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_163_000163.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_164_000164.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_165_000165.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_166_000166.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_167_000167.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_168_000168.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_169_000169.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_170_000170.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_171_000171.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_172_000172.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_173_000173.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_174_000174.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_175_000175.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_176_000176.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_177_000177.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_178_000178.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_179_000179.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_180_000180.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_181_000181.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_182_000182.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_183_000183.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_184_000184.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_185_000185.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_186_000186.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_187_000187.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_188_000188.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_189_000189.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_190_000190.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_191_000191.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_192_000192.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_193_000193.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_194_000194.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_195_000195.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_196_000196.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_197_000197.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_198_000198.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            },
+            {
+                "img_path": "HeadCT/head ct/test/good/HeadCT_good_199_000199.bmp",
+                "mask_path": "",
+                "cls_name": "head ct",
+                "specie_name": "good",
+                "dataset_name": "HeadCT",
+                "anomaly": 0
+            }
+        ]
+    }
+}

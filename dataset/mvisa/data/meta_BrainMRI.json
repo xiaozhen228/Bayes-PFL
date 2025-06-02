@@ -1,0 +1,1242 @@
+{
+    "train": {
+        "brain ct": [
+            {
+                "img_path": "",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "",
+                "anomaly": 0
+            }
+        ]
+    },
+    "test": {
+        "brain ct": [
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y100_000000.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y100_000000.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y109_000001.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y109_000001.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y111_000002.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y111_000002.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y112_000003.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y112_000003.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y113_000004.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y113_000004.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y114_000005.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y114_000005.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y115_000006.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y115_000006.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y116_000007.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y116_000007.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y117_000008.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y117_000008.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y120_000009.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y120_000009.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y146_000010.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y146_000010.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y147_000011.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y147_000011.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y148_000012.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y148_000012.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y155_000013.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y155_000013.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y156_000014.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y156_000014.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y157_000015.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y157_000015.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y158_000016.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y158_000016.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y159_000017.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y159_000017.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y160_000019.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y160_000019.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y161_000020.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y161_000020.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y163_000021.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y163_000021.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y164_000022.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y164_000022.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y165_000023.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y165_000023.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y166_000024.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y166_000024.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y167_000025.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y167_000025.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y16_000018.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y16_000018.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y170_000026.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y170_000026.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y182_000028.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y182_000028.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y184_000029.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y184_000029.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y18_000027.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y18_000027.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y192_000031.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y192_000031.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y193_000032.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y193_000032.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y195_000033.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y195_000033.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y19_000030.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y19_000030.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y23_000034.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y23_000034.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y242_000035.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y242_000035.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y243_000036.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y243_000036.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y244_000037.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y244_000037.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y246_000038.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y246_000038.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y247_000039.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y247_000039.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y248_000040.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y248_000040.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y249_000041.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y249_000041.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y251_000042.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y251_000042.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y253_000043.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y253_000043.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y255_000044.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y255_000044.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y256_000045.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y256_000045.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y258_000046.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y258_000046.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y259_000047.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y259_000047.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y36_000048.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y36_000048.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y40_000049.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y40_000049.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y44_000050.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y44_000050.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y45_000051.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y45_000051.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y47_000052.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y47_000052.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y49_000053.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y49_000053.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y50_000054.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y50_000054.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y58_000055.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y58_000055.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y59_000056.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y59_000056.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y65_000057.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y65_000057.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y66_000058.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y66_000058.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y67_000059.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y67_000059.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y71_000060.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y71_000060.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y75_000061.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y75_000061.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y85_000062.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y85_000062.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y86_000063.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y86_000063.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y89_000064.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y89_000064.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y97_000065.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y97_000065.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y98_000066.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y98_000066.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/anomaly/BrainMRI_defect_Y99_000067.bmp",
+                "mask_path": "BrainMRI/brain ct/ground_truth/anomaly/BrainMRI_defect_Y99_000067.png",
+                "cls_name": "brain ct",
+                "specie_name": "anomaly",
+                "dataset_name": "BrainMRI",
+                "anomaly": 1
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_10 no_000068.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_11 no_000069.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_12 no_000070.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_13 no_000071.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_14 no_000072.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_15 no_000073.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_17 no_000074.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_18 no_000075.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_19 no_000076.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_20 no_000077.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_21 no_000078.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_22 no_000079.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_23 no_000080.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_24 no_000081.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_25 no_000082.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_26 no_000083.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_27 no_000084.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_28 no_000085.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_29 no_000086.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_3 no_000087.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_30 no_000088.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_31 no_000089.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_32 no_000090.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_33 no_000091.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_34 no_000092.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_35 no_000093.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_36 no_000094.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_37 no_000095.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_38 no_000096.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_39 no_000097.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_4 no_000098.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_40 no_000099.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_41 no_000100.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_42 no_000101.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_43 no_000102.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_44no_000103.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_45 no_000104.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_46 no_000105.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_47 no_000106.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_49 no_000107.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_5 no_000108.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_50 no_000109.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_6 no_000110.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_7 no_000111.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_8 no_000112.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_9 no_000113.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_N11_000114.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_N15_000115.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_N16_000116.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_N17_000117.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_N21_000118.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_N3_000119.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_N5_000120.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_N6_000121.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_No11_000122.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_No12_000123.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_No13_000124.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_No14_000125.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_No15_000126.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_No16_000127.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_No17_000128.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_No18_000129.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_No19_000130.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_No20_000131.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_No21_000132.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_No22_000133.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 100_000136.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 10_000135.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 1_000134.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 2_000137.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 3_000138.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 4_000139.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 6_000140.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 89_000142.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 8_000141.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 90_000143.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 923_000145.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 92_000144.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 94_000146.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 95_000147.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 96_000148.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 97_000149.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 98_000150.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no 99_000151.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            },
+            {
+                "img_path": "BrainMRI/brain ct/test/good/BrainMRI_good_no_000152.bmp",
+                "mask_path": "",
+                "cls_name": "brain ct",
+                "specie_name": "good",
+                "dataset_name": "BrainMRI",
+                "anomaly": 0
+            }
+        ]
+    }
+}

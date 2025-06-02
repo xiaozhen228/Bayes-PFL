@@ -15,13 +15,14 @@ class metaSolver(object):
             'macaroni1', 'macaroni2', 'pcb1', 'pcb2', 'pcb3',
             'pcb4', 'pipe_fryum',
             ]
-        else:
+        elif datasets == "mvtec":
             self.CLSNAMES = [
             'bottle', 'cable', 'capsule', 'carpet', 'grid',
             'hazelnut', 'leather', 'metal_nut', 'pill', 'screw',
             'tile', 'toothbrush', 'transistor', 'wood', 'zipper',
             ]
-    
+        else:
+            self.CLSNAMES = os.listdir(root)
     def run(self):
         info = dict(train={}, test={})
         for cls_name in self.CLSNAMES:
@@ -68,8 +69,8 @@ class metaSolver(object):
 
 if __name__ == '__main__':
     
-    runner = metaSolver(root="./dataset/mvisa/data/visa", meta_path="./dataset/mvisa/data/meta_visa.json", datasets= "visa")  #new_anomaly_set
-    runner.run()
+    dataset_list = ["ISIC", "ClinicDB", "ColonDB", "HeadCT", "DTD", "HeadCT", "Endo", "BrainMRI", "Br35H", "BTAD", "DAGM", "KSDD2", "RSDD"]
 
-    runner = metaSolver(root="./dataset/mvisa/data/mvtec", meta_path="./dataset/mvisa/data/meta_mvtec.json", datasets= "mvtec")  #new_anomaly_set
-    runner.run()
+    for dataset_name in dataset_list:
+        runner = metaSolver(root=f"./dataset/mvisa/data/{dataset_name}", meta_path=f"./dataset/mvisa/data/meta_{dataset_name}.json", datasets= dataset_name)  #new_anomaly_set
+        runner.run()
