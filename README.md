@@ -116,7 +116,16 @@ The format of the standardized datasets is as follows:
 ├── meta_visa.json
 ```
 #### Other Datasets
-Updating...
+Please download the other datasets from Google Drive: [[DTAT.zip]](https://drive.google.com/file/d/194ZQoO8vBvPZp-1fczphWtb0xzkEpCGa/view?usp=drive_link). The processing methods for the datasets are similar to those for MVTec and VisA; all datasets are standardized into the MVTec format with a corresponding meta.json file. 
+
+Dataset Brief Description:
+
+(1) HeadCT, BrainMRI, Br35H, ISIC, CVC-ColonDB, and CVC-ClinicDB are carefully curated by the [AdaCLIP](https://github.com/caoyunkang/AdaCLIP) project, while Endo and Kvasir are curated by the [AnomalyCLIP](https://github.com/zqhang/AnomalyCLIP) project. We sincerely appreciate their excellent work and dedication.
+
+(2) KSDD2, RSDD, and DAGM datasets were post-processed by us, including operations such as random cropping. The original DAGM dataset was designed for weakly supervised defect segmentation, and thus its pixel-level annotations are imprecise elliptical labels. To make it suitable for anomaly segmentation, we manually re-annotated the dataset with precise pixel-level labels.
+Moreover, since the test sets of these datasets contain no normal samples, they are not directly suitable for anomaly classification. Therefore, when generating standardized datasets, we randomly selected an equal number of normal samples from the training set to match the number of abnormal samples in the test set for evaluation purposes. Due to the randomness involved, re-running ./dataset/make_dataset.py may result in different selections of normal samples. Therefore, we have also uploaded the version used in our paper for reference: [[DATA_three.zip]](https://drive.google.com/file/d/1JrTddHh2THBytMzv8O5Ru8AiRSJDHXIi/view?usp=drive_link).
+
+(3) This paper does not introduce any new datasets. If you wish to use the aforementioned datasets, please comply with the usage policies of the original sources.
 
 
 ## Run Experiments
