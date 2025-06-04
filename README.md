@@ -5,7 +5,7 @@
 
 Zhen Qu, Xian Tao, Xinyi Gong, ShiChen Qu, Qiyu Chen, Zhengtao Zhang, Xingang Wang, Guiguang Ding
 
-[Paper link](https://arxiv.org/pdf/2503.10080)
+[Paper link](https://arxiv.org/pdf/2503.10080v3)
 
 ## Table of Contents
 * [📖 Introduction](#introduction)
