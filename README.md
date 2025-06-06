@@ -148,11 +148,13 @@ Note that we perform auxiliary training on one industrial dataset and directly i
 Please cite the following paper if the code help your project:
 
 ```bibtex
-@article{qu2025bayesian,
-  title={Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection},
-  author={Qu, Zhen and Tao, Xian and Gong, Xinyi and Qu, Shichen and Chen, Qiyu and Zhang, Zhengtao and Wang, Xingang and Ding, Guiguang},
-  journal={arXiv preprint arXiv:2503.10080},
-  year={2025}
+@InProceedings{Qu_2025_CVPR,
+    author    = {Qu, Zhen and Tao, Xian and Gong, Xinyi and Qu, ShiChen and Chen, Qiyu and Zhang, Zhengtao and Wang, Xingang and Ding, Guiguang},
+    title     = {Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {30398-30408}
 }
 ```
 
