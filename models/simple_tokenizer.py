@@ -14,7 +14,7 @@ def default_bpe():
 
 
 @lru_cache()
-def bytes_to_unicode():  #主要是将U-tf8转换为unicode，因为大部分的nlp任务或者工具箱使用的都是unicode编码
+def bytes_to_unicode(): 
     """
     Returns list of utf-8 byte and a corresponding list of unicode strings.
     The reversible bpe codes work on unicode strings.
@@ -60,27 +60,24 @@ def whitespace_clean(text):
     return text
 
 
-class SimpleTokenizer(object):  #如何对一个文本进行tokenize
+class SimpleTokenizer(object):  
     def __init__(self, bpe_path: str = default_bpe()):
-        self.byte_encoder = bytes_to_unicode()  #定义编码器，将utf8转换为unicode
-        self.byte_decoder = {v: k for k, v in self.byte_encoder.items()} #定义解码器
-        merges = gzip.open(bpe_path).read().decode("utf-8").split('\n') #读取词汇表
+        self.byte_encoder = bytes_to_unicode()  
+        self.byte_decoder = {v: k for k, v in self.byte_encoder.items()} 
+        merges = gzip.open(bpe_path).read().decode("utf-8").split('\n') 
         merges = merges[1:49152-256-2+1]
         merges = [tuple(merge.split()) for merge in merges]
         vocab = list(bytes_to_unicode().values())
-        vocab = vocab + [v+'</w>' for v in vocab]  #每个词汇后面都要加一个</w>表示结束
+        vocab = vocab + [v+'</w>' for v in vocab]  
         for merge in merges:
             vocab.append(''.join(merge))
         vocab.extend(['<|startoftext|>', '<|endoftext|>','<|class|>'])
         self.encoder = dict(zip(vocab, range(len(vocab))))
         self.decoder = {v: k for k, v in self.encoder.items()}
-        self.bpe_ranks = dict(zip(merges, range(len(merges))))  #只是他原来的词汇表  BPE (Byte Pair Encoding) 
+        self.bpe_ranks = dict(zip(merges, range(len(merges)))) 
         self.cache = {'<|class|>':'<|class|>','<|startoftext|>': '<|startoftext|>', '<|endoftext|>': '<|endoftext|>'}
         self.pat = re.compile(r"""<\|startoftext\|>|<\|endoftext\|>|<\|class\|>|'s|'t|'re|'ve|'m|'ll|'d|[\p{L}]+|[\p{N}]|[^\s\p{L}\p{N}]+""", re.IGNORECASE)
-        '''
-        这个正则表达式模式可以用来对自然语言文本进行分词处理，将文本划分为一系列的标记。其中包括单词、数字、标点符号以及特殊标记 <|startoftext|> 和
-        |endoftext|>
-        '''
+
 
     def bpe(self, token):
         if token in self.cache:
@@ -125,17 +122,12 @@ class SimpleTokenizer(object):  #如何对一个文本进行tokenize
 
     def encode(self, text):
         bpe_tokens = []
-        text = whitespace_clean(basic_clean(text)).lower()  #全部转换为了小写
+        text = whitespace_clean(basic_clean(text)).lower()
         for token in re.findall(self.pat, text):
             token = ''.join(self.byte_encoder[b] for b in token.encode('utf-8'))
-            #将原始文本中的每个字符都替换成了一个唯一的字节表示，从而避免了不同字符之间相互影响的问题，为后续的BPE编码打下基础
-            bpe_tokens.extend(self.encoder[bpe_token] for bpe_token in self.bpe(token).split(' '))  #这不是很正常吗，对列表中元素进行循环
+            bpe_tokens.extend(self.encoder[bpe_token] for bpe_token in self.bpe(token).split(' '))
         return bpe_tokens
-    '''
-    最终返回的是一个列表bpe_tokens, 它包含了tokenized字符串中每个子词在词汇表中的位置。具体来说，这个方法使用BPE算法将原始字符串进行分词处理，
-    并将每个子词映射成对应的编码（整数），然后将这些编码按照原始字符串中的顺序组成一个列表并返回。因此，
-    bpe_tokens列表中的每个元素代表着原始字符串中对应位置上的子词在词汇表中的位置。
-    '''
+
 
     def decode(self, tokens):
         text = ''.join([self.decoder[token] for token in tokens])
