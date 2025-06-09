@@ -191,7 +191,7 @@ def calcuate_metric_pixel(results, obj_list, logger, alpha = 0.9, sigm = 4, args
 
         All_anomaly = (np.sum(gt_sp) == pr_px.shape[0])
 
-        auroc_px = roc_auc_score(gt_px.ravel(), pr_px.ravel())   #像素级别的AUROC 
+        auroc_px = roc_auc_score(gt_px.ravel(), pr_px.ravel()) 
         #auroc_px = 0
         ap_px = average_precision_score(gt_px.ravel(), pr_px.ravel())
 
