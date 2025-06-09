@@ -30,7 +30,7 @@ class CLIP(nn.Module):
         self.context_length = context_length
 
 
-        vision_heads = vision_width // 64   #如果是一个舒朗就是传统的VIT模型   为什么要除以64？
+        vision_heads = vision_width // 64   
         self.visual = VisionTransformer(
             input_resolution=image_resolution,
             patch_size=vision_patch_size,
@@ -102,7 +102,7 @@ class CLIP(nn.Module):
         return self.visual(image, out_layers)
 
     def encode_text(self, text):
-        x = self.token_embedding(text).type(self.dtype)  # [batch_size, n_ctx, d_model]  n_ctx 应该也是固定的，就是那个最大的截断长度
+        x = self.token_embedding(text).type(self.dtype)  
         x = x + self.positional_embedding.type(self.dtype)
         x = x.permute(1, 0, 2)  # NLD -> LND
         #x = self.transformer(x)
