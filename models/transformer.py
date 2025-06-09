@@ -12,7 +12,7 @@ from torch.overrides import (
     has_torch_function, has_torch_function_unary, has_torch_function_variadic,
     handle_torch_function)
 
-def linear(input: Tensor, weight: Tensor, bias: Optional[Tensor] = None) -> Tensor:  #线性层的底层实现
+def linear(input: Tensor, weight: Tensor, bias: Optional[Tensor] = None) -> Tensor:  
     r"""
     Applies a linear transformation to the incoming data: :math:`y = xA^T + b`.
 
@@ -49,7 +49,7 @@ def _in_projection(
     assert b_q is None or b_q.shape == (Eq,)
     assert b_k is None or b_k.shape == (Eq,)
     assert b_v is None or b_v.shape == (Eq,)
-    return linear(q, w_q, b_q), linear(k, w_k, b_k), linear(v, w_v, b_v)  #感觉是都映射成为了Eq大小
+    return linear(q, w_q, b_q), linear(k, w_k, b_k), linear(v, w_v, b_v)  
 
 def _in_projection_packed(
     q: Tensor,
@@ -86,7 +86,7 @@ def _in_projection_packed(
             same shape as the corresponding input tensor.
     """
     E = q.size(-1)
-    if k is v:   #对于自监督， q,k,v是相等的  ，但是那种编码器 解码器可能就不相等，所以造成了那种现象 Q:(L,E) K^T:(E,L) V(L,E) 
+    if k is v:   
         if q is k:
             return linear(q, w, b).chunk(3, dim=-1)  # L,E E,3E   = L,3E 
         else:
@@ -127,9 +127,9 @@ class NonDynamicallyQuantizableLinear(nn.Linear):
 
 class MultiheadAttention(nn.Module):
 
-    __constants__ = ['batch_first']  # 常量属性，赋值后就不能再被修改
-    bias_k : Optional[torch.Tensor]  # 建议数据类型
-    bias_v: Optional[torch.Tensor]   # 建议数据类型
+    __constants__ = ['batch_first']  
+    bias_k : Optional[torch.Tensor]  
+    bias_v: Optional[torch.Tensor]   
 
     def __init__(self, embed_dim, num_heads, dropout=0., bias=True, add_bias_kv=False, add_zero_attn = False,
                  kdim = None, vdim = None, batch_first = False, device = None, dtype = None):
@@ -194,7 +194,7 @@ class MultiheadAttention(nn.Module):
         if self.bias_v is not None:
             xavier_normal_(self.bias_v)
     
-    def initialize_model_params(self,model):   #一般对卷积模型快内的参数初始化就是这样做的
+    def initialize_model_params(self,model):   
         for layer in model.modules():
             if isinstance(layer, nn.Conv2d) or isinstance(layer, nn.Linear):
                 nn.init.xavier_normal_(layer.weight)
@@ -321,7 +321,7 @@ class MultiheadAttention(nn.Module):
 
         if not use_separate_proj_weight:
             q, k, v = _in_projection_packed(query, key, value, in_proj_weight, in_proj_bias)
-        else:  #我感觉这一部分就是说q,k,v的权重不相同的情况
+        else:  
             assert q_proj_weight is not None 
             assert k_proj_weight is not None
             assert v_proj_weight is not None 
@@ -332,7 +332,7 @@ class MultiheadAttention(nn.Module):
             
             q, k, v = _in_projection(query, key, value, q_proj_weight, k_proj_weight, v_proj_weight, b_q, b_k, b_v)
 
-        # 预测特征图 
+      
 
         if attn_mask is not None:
             if attn_mask.dtype == torch.uint8:
@@ -364,19 +364,19 @@ class MultiheadAttention(nn.Module):
         if bias_k is not None and bias_v is not None:
             assert static_k is None, "bias cannot be added to static key."
             assert static_v is None, "bias cannot be added to static value."
-            k = torch.cat([k, bias_k.repeat(1, bsz, 1)])  # 这个cat需要再理解一下
+            k = torch.cat([k, bias_k.repeat(1, bsz, 1)])  
             v = torch.cat([v, bias_v.repeat(1, bsz, 1)])
             if attn_mask is not None:
-                attn_mask = nn.functional.pad(attn_mask, (0, 1))  #填充 左右上下
+                attn_mask = nn.functional.pad(attn_mask, (0, 1))  
             if key_padding_mask is not None:
                 key_padding_mask = nn.functional.pad(key_padding_mask, (0, 1))
         else:
             assert bias_k is None
             assert bias_v is None
         
-        #  将 Q, K, V转换为多头自注意形式并且 将batchsize调整到dim 0 
+     
 
-        q = q.contiguous().view(tgt_len, bsz * num_heads, head_dim).transpose(0, 1)   #把原来的一行变成了num_head行
+        q = q.contiguous().view(tgt_len, bsz * num_heads, head_dim).transpose(0, 1)   
         if static_k is None:
             k = k.contiguous().view(k.shape[0], bsz * num_heads, head_dim).transpose(0, 1)
         else:
@@ -399,7 +399,7 @@ class MultiheadAttention(nn.Module):
         # add zero attention along batch dimension (now first)
         if add_zero_attn:
             zero_attn_shape = (bsz * num_heads, 1, head_dim)
-            k = torch.cat([k, torch.zeros(zero_attn_shape, dtype=k.dtype, device=k.device)], dim=1)  #我的理解相当于增加了序列的长度
+            k = torch.cat([k, torch.zeros(zero_attn_shape, dtype=k.dtype, device=k.device)], dim=1)  
             v = torch.cat([v, torch.zeros(zero_attn_shape, dtype=v.dtype, device=v.device)], dim=1)
             if attn_mask is not None:
                 attn_mask = nn.functional.pad(attn_mask, (0, 1))
@@ -409,7 +409,7 @@ class MultiheadAttention(nn.Module):
         # update source sequence length after adjustments
         src_len = k.size(1)
 
-        #=======================这段合并代码没懂，维度好像不一致=================
+        
         # merge key padding and attention masks
         if key_padding_mask is not None:
             assert key_padding_mask.shape == (bsz, src_len), \
@@ -437,8 +437,8 @@ class MultiheadAttention(nn.Module):
         # (deep breath) calculate attention and out projection
         #
 
-        attn_output, attn_output_weights = self.Scaled_dot_product_attention(q, k, v, attn_mask, dropout_p) #这个batchsize*numheads在dim0
-        attn_output = attn_output.transpose(0, 1).contiguous().view(tgt_len, bsz, embed_dim)   # 这里已经将形状返回为了 Lt, batcisize, embed_dim 也就是batcisize和 bum_heads分开了  bumheads和headdim合并了为embed_dim
+        attn_output, attn_output_weights = self.Scaled_dot_product_attention(q, k, v, attn_mask, dropout_p) 
+        attn_output = attn_output.transpose(0, 1).contiguous().view(tgt_len, bsz, embed_dim)   
         attn_output = linear(attn_output, out_proj_weight, out_proj_bias)
 
         if need_weights:
@@ -503,7 +503,7 @@ class ResidualAttentionBlock(nn.Module):
     def attention(self, x:torch.Tensor):
         self.attn_mask = self.attn_mask.to(dtype = x.dtype, device = x.device) if self.attn_mask is not None else None 
         #return self.attn(x,x,x, need_weights = False, attn_mask = self.attn_mask)[0]
-        return self.attn(x,x,x, need_weights = True, attn_mask = self.attn_mask)   #这里改为需要权重
+        return self.attn(x,x,x, need_weights = True, attn_mask = self.attn_mask)  
 
     def forward(self, x:torch.Tensor):
         tmp, attn = self.attention(self.ln_1(x))
@@ -563,11 +563,11 @@ class VisionTransformer(nn.Module):
         self.output_dim = output_dim
         self.conv1 = nn.Conv2d(in_channels=3, out_channels= width, kernel_size = patch_size, stride= patch_size, bias=False)
 
-        scale = width ** -0.5  #   相当于说你要降维度到多少
+        scale = width ** -0.5  
         self.class_embedding =  nn.Parameter(scale * torch.randn(width))
 
         self.positional_embedding = nn.Parameter(scale * torch.randn((input_resolution // patch_size) **2 + 1, width))
-        self.ln_pre = LayerNorm(width)   #层标准化
+        self.ln_pre = LayerNorm(width)   
 
         self.transformer = Transformer( width, layers, heads) 
 
@@ -581,9 +581,9 @@ class VisionTransformer(nn.Module):
 
     def forward(self, x:torch.Tensor, out_layers: list):
         x = self.conv1(x)  
-        x = x.reshape(x.shape[0], x.shape[1], -1)  #reshape 是逐渐从内层开始往外层传的
+        x = x.reshape(x.shape[0], x.shape[1], -1) 
         x = x.permute(0,2,1)
-        x = torch.cat([self.class_embedding.to(x.dtype) + torch.zeros(x.shape[0], 1, x.shape[-1], dtype=x.dtype, device=x.device), x],dim = 1) #将class_embedding放在第一行
+        x = torch.cat([self.class_embedding.to(x.dtype) + torch.zeros(x.shape[0], 1, x.shape[-1], dtype=x.dtype, device=x.device), x],dim = 1) 
 
         x = x + self.positional_embedding.to(x.dtype)
         #add 
@@ -606,7 +606,7 @@ class VisionTransformer(nn.Module):
         #add
         patch_tokens = [patch_tokens[t].permute(1, 0, 2)[:,1:,:] for t in range(len(patch_tokens))]  # LND -> NLD
 
-        x = self.ln_post(x[:, 0, :])   #选择了起始的class序列作为特征，也就是第0行
+        x = self.ln_post(x[:, 0, :])   
 
         #-------------------------------------------------------
         if True:
@@ -617,7 +617,7 @@ class VisionTransformer(nn.Module):
         #--------------------------------------------------------
 
         if self.proj is not None:
-            x = x @ self.proj   #最后算下来也还是一个矩阵，这个矩阵是[b,output_dim]，每行代表这张图片的一个整体的特征
+            x = x @ self.proj   
         return x, patch_token_list, patch_tokens 
 
 
@@ -662,7 +662,7 @@ if __name__ == '__main__':
 
     model = VisionTransformer(336, 16, 728, 12, 2, 1024).to(device)
     with torch.no_grad():
-        print(torch.equal(image2,image3))   #为什么会相等呢？
+        print(torch.equal(image2,image3))  
 
         image_features3,_ = model(image3, [3,6,9])
 
