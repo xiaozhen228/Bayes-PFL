@@ -1,7 +1,7 @@
 ### Bayes-PFL
 ![](figures/framework.png)
 
-**Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection**
+**Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection (CVPR2025)**
 
 Zhen Qu, Xian Tao, Xinyi Gong, ShiChen Qu, Qiyu Chen, Zhengtao Zhang, Xingang Wang, Guiguang Ding
 
